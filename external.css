@@ -22,6 +22,8 @@
 			font-weight: bolder;
 			font-size: 150%;
 		}
-		@media screen and(min-width: 20px){
-			body{background: lightblue;}
+		h3{
+			background-color: lightyellow}
+			@media screen and(min-width: 500px){
+			h3{background: lightblue;}
 		}
